@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YenChung.Web", "YenChung.Web\YenChung.Web.csproj", "{9362AF8D-9F56-4B94-98D3-50CFE4BA407E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YenChung.Web.API", "YenChung.Web.API\YenChung.Web.API.csproj", "{0F13A389-2872-4298-8D26-653CE0A849F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9362AF8D-9F56-4B94-98D3-50CFE4BA407E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9362AF8D-9F56-4B94-98D3-50CFE4BA407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9362AF8D-9F56-4B94-98D3-50CFE4BA407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9362AF8D-9F56-4B94-98D3-50CFE4BA407E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F13A389-2872-4298-8D26-653CE0A849F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F13A389-2872-4298-8D26-653CE0A849F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F13A389-2872-4298-8D26-653CE0A849F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F13A389-2872-4298-8D26-653CE0A849F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

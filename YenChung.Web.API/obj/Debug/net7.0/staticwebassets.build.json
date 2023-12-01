@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cSZ8CJTLyoOntWcEv6TR+CwOSCQYskATc9lBPDMDK5Q=",
+  "Source": "YenChung.Web.API",
+  "BasePath": "_content/YenChung.Web.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
